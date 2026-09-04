@@ -1,11 +1,13 @@
 about:
-  description: SSH Config terminal manager based on Python and Click framework with Rich and Textual UI
+  description:
+  |
+    SSH Config terminal manager based on Python and Click framework with Rich and Textual UI
   license: MIT
   homepage: 
   head: 76e6a46
   archived: false
   latestVersion: 0.8.0
-  collectedAt: 2026-09-04T04:56:55Z
+  collectedAt: 2026-09-04T19:54:42Z
 timeline:
   created: 2022-05-26
   lastCommit: 2026-04-20
@@ -16,14 +18,22 @@ popularity:
   fork: 11
   release: 5
   contributor: 2
-  pullRequest: 3
+  pullRequest: 7
   issue: 6
 language:
   Python: 290109
-totalLine: 290109
+totalBytes: 290109
 recent:
   last30d:
     since: 2026-08-05
+    release: 0
+    mergedPR: 0
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 0
+  last60d:
+    since: 2026-07-06
     release: 0
     mergedPR: 0
     openPR: 0
@@ -54,3 +64,21 @@ recent:
     closedIssue: 2
     openIssue: 1
     commit: 21
+  last720d:
+    since: 2024-09-14
+    release: 1
+    mergedPR: 2
+    openPR: 0
+    closedIssue: 5
+    openIssue: 1
+    commit: 32
+total:
+  release: 5
+  mergedPR: 4
+  openPR: 0
+  closedIssue: 5
+  openIssue: 1
+  commit: 76
+---
+---
+
