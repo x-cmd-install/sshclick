@@ -7,13 +7,13 @@ about:
   head: 76e6a46
   archived: false
   latestVersion: 0.8.0
-  collectedAt: 2026-09-04T19:54:42Z
+  collectedAt: 2026-09-04T20:49:08Z
 timeline:
   created: 2022-05-26
   lastCommit: 2026-04-20
   lastRelease: 2026-03-29
 popularity:
-  star: 186
+  star: 187
   watcher: 3
   fork: 11
   release: 5
@@ -80,5 +80,28 @@ total:
   openIssue: 1
   commit: 76
 ---
+path: /home/runner/.x-repo/github.com/karlot/sshclick
+collectedAt: 2026-09-04T20:49:09Z
+loc:
+  Python:
+    code: 5487
+    comments: 520
+    blanks: 1613
+    files: 99
+  Toml:
+    code: 56
+    comments: 1
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 402
+    blanks: 150
+    files: 2
+total:
+  code: 5543
+  comments: 923
+  blanks: 1773
+  files: 102
 ---
 
