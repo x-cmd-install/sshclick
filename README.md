@@ -34,7 +34,7 @@ Total: **5,543** lines of code across **102** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 188 · **Forks**: 11 · **Open issues**: 6 · **Contributors**: 2
+- **Stars**: 189 · **Forks**: 11 · **Open issues**: 6 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -44,12 +44,12 @@ Total: **5,543** lines of code across **102** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-13 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-15 | 1 | 2 | 0 | 2 | 1 | 20 |
-| 360d | 2025-09-16 | 1 | 2 | 0 | 2 | 1 | 21 |
-| last720d | 2024-09-21 | 1 | 2 | 0 | 5 | 1 | 32 |
+| 30d | 2026-08-14 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-15 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-17 | 1 | 2 | 0 | 2 | 1 | 20 |
+| 360d | 2025-09-18 | 1 | 2 | 0 | 2 | 1 | 21 |
+| last720d | 2024-09-23 | 1 | 2 | 0 | 5 | 1 | 32 |
 
 ## Improve this data
 
@@ -60,4 +60,4 @@ Install metadata for sshclick lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:26:39Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:44:13Z._
